@@ -28,4 +28,5 @@ See [DEVELOPING.md](./DEVELOPING.md)
 
 ## Changelog
 ### 3.26.101d
+- Add Changelog to README
 - Add Dust Values
