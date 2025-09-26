@@ -25,3 +25,7 @@ See [DEVELOPING.md](./DEVELOPING.md)
 - [poe.ninja](https://poe.ninja/)
 
 ![](https://i.imgur.com/MATqhv7.png)
+
+## Changelog
+### 3.26.101d
+- Add Dust Values
