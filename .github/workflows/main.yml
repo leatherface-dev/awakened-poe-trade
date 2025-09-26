@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'pr'
     tags-ignore:
       - '**'
     paths-ignore:
