@@ -5,11 +5,13 @@ on:
     branches:
       - 'master'
       - 'pr'
-    tags-ignore:
-      - '**'
+    tags:
+      - 'v*'
     paths-ignore:
       - 'docs/**'
       - README.md
+  release:
+    types: [published]
 
 jobs:
   renderer:
